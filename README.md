@@ -1,120 +1,125 @@
-<h1 align="center">Hi there, I'm Mostafa Gebreel 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Backend+%26+Full-Stack+Engineer;Clean+Architecture+%26+REST+APIs;SQL+Server+%2B+Entity+Framework+Core" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/images/air.gif?raw=true" width="220" alt="animation" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ✨ About Me
-
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>💻 .NET Developer focused on building scalable backend systems</li>
-        <li>🚀 Hands-on experience with ASP.NET Core, MVC, and Web APIs</li>
-        <li>🗄️ Strong with SQL Server, Entity Framework Core, and database design</li>
-        <li>🧠 Good understanding of OOP, SOLID principles, and clean code</li>
-        <li>🔐 Familiar with JWT authentication and authorization</li>
-        <li>⚡ Experienced in personal and freelance projects</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="coding animation" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,angular,react,html,css,bootstrap" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,git,github,postman,vscode,visualstudio" />
-</p>
-
----
-
-## ⚙️ What I Build
-
 <div align="center">
 
-| Backend                        | Frontend         | Database              | Practices          |
-| ------------------------------ | ---------------- | --------------------- | ------------------ |
-| ASP.NET Core Web API           | Angular          | SQL Server            | Clean Architecture |
-| ASP.NET MVC                    | Responsive UI    | Entity Framework Core | SOLID Principles   |
-| Authentication & Authorization | REST Integration | Stored Procedures     | CQRS / DDD Basics  |
+```
+███╗   ███╗ ██████╗ ███████╗████████╗ █████╗ ███████╗ █████╗
+████╗ ████║██╔═══██╗██╔════╝╚══██╔══╝██╔══██╗██╔════╝██╔══██╗
+██╔████╔██║██║   ██║███████╗   ██║   ███████║█████╗  ███████║
+██║╚██╔╝██║██║   ██║╚════██║   ██║   ██╔══██║██╔══╝  ██╔══██║
+██║ ╚═╝ ██║╚██████╔╝███████║   ██║   ██║  ██║██║     ██║  ██║
+╚═╝     ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝
+```
+
+### .NET Backend Developer — Building scalable systems, one endpoint at a time.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mostafa--Gebreel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mostafa-Gebreel)
+[![Gmail](https://img.shields.io/badge/Gmail-mostafagebreel7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mostafagebreel7@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Giza,_Egypt-green?style=flat-square)](https://maps.google.com/?q=Giza,Egypt)
 
 </div>
 
 ---
 
+## 👤 About Me
+
+```csharp
+var mostafa = new Developer
+{
+    Name        = "Mostafa Gebreel Ahmed",
+    Role        = ".NET Backend Developer",
+    Focus       = new[] { "RESTful APIs", "Scalable Architecture", "Clean Code" },
+    CurrentlyAt = "ITI — Intensive Code Camp, Full-Stack .NET Track",
+    Languages   = new[] { "Arabic (Native)", "English (B2)" },
+    Learning    = "Always something new 🚀"
+};
+```
+
+I'm a results-driven backend developer specializing in **ASP.NET Core** and **Entity Framework**, passionate about designing secure, high-performance web applications. I enjoy Agile workflows, clean architecture, and continuously optimizing for reliability.
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Database**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Tools & Practices**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MostafaGebreel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaGebreel&layout=compact&theme=tokyonight&hide_border=true" />
 
----
+</div>
 
-## 📌 Featured Projects
+<div align="center">
 
-### 🔹 E-Commerce Backend API
+[![GitHub Streak](https://streak-stats.demolab.com?user=MostafaGebreel&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-A scalable ASP.NET Core Web API project with authentication, product management, and SQL Server integration.
-
-### 🔹 Full Stack Dashboard
-
-A modern full-stack application built with ASP.NET Core and Angular, focused on clean UI and smooth API communication.
-
-### 🔹 ERP / Business System Modules
-
-Backend services designed with maintainability, performance, and clean architecture in mind.
+</div>
 
 ---
 
-## 🐍 Contribution Animation
+## 🎓 Education & Training
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+| 🏛️ Institution | 📚 Program | 📅 Period |
+|---|---|---|
+| **ITI** | Intensive Code Camp — Full-Stack .NET Track | 07/2025 – 01/2026 |
+| **ITI** | Intensive Code Camp — Software Fundamentals | 02/2025 – 07/2025 |
+| **Aswan University** | B.Com in Accounting — English Section (78.5%) | Graduated |
+| **AMIDEAST / U.S. Dept. of State** | Access 9 Program | 12/2017 – 12/2019 |
 
 ---
 
-## 📫 Contact Me
+## 📜 Certifications
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
-</p>
+- 🏅 **SDF** — Software Development Fundamentals, ITI  
+- 🏅 **TFE** — Training for Employment, Egyptian Banking Institute  
+- 🏅 **TOEFL Junior** — AMIDEAST & U.S. Department of State  
 
-<p align="center">
-  <i>Always learning, building, and improving.</i>
-</p>
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+If you're looking for a backend developer who writes clean, maintainable code and is always pushing for better systems — let's talk.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mostafa-Gebreel)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafagebreel7@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MostafaGebreel&style=flat-square&color=512BD4" alt="Profile views" />
+</div>
