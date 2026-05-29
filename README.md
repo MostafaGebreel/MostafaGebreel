@@ -47,11 +47,15 @@ I'm a results-driven backend developer specializing in **ASP.NET Core** and **En
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
 
 **Database**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Frontend**
 
@@ -67,7 +71,11 @@ I'm a results-driven backend developer specializing in **ASP.NET Core** and **En
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ---
 
@@ -94,15 +102,14 @@ I'm a results-driven backend developer specializing in **ASP.NET Core** and **En
 |---|---|---|
 | **ITI** | Intensive Code Camp — Full-Stack .NET Track | 07/2025 – 01/2026 |
 | **ITI** | Intensive Code Camp — Software Fundamentals | 02/2025 – 07/2025 |
-| **Aswan University** | B.Com in Accounting — English Section (78.5%) | Graduated |
 | **AMIDEAST / U.S. Dept. of State** | Access 9 Program | 12/2017 – 12/2019 |
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 **SDF** — Software Development Fundamentals, ITI  
-- 🏅 **TFE** — Training for Employment, Egyptian Banking Institute  
+- 🏅 **.Net** — Full-Stack Using .NET, ITI
+- 🏅 **SDF** — Software Development Fundamentals, ITI    
 - 🏅 **TOEFL Junior** — AMIDEAST & U.S. Department of State  
 
 ---
